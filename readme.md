@@ -2,10 +2,10 @@ This is basic example of CRUD application using Node.js, Express and mySQL.
 
 ## Installation
 1. Clone/Download project
-2. Go to project root directory and run below command
-	npm install
-3. Run below commnd run application
-	node app.js
+2. Go to project root directory and run this command
+	"npm install"
+3. Run this commnd run application
+	"node app.js"
 4. Open the URL in browser
 	http://127.0.0.1:<app_port>/customers
 
